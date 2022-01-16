@@ -1,7 +1,7 @@
 # Fire and Smoke detection
 
 In this work, we trained 2 models, one that involves fire, the other smoke.
-Ьodels are the same - you can see it in the code.
+Models are the same - you can see it in the code.
 In addition, we used superpixel segmentation.
 
 

@@ -20,3 +20,10 @@ Here you can see the results with segmentation:
 ![plot](./data/segmentation_results/photo4.jpg)
 ![plot](./data/segmentation_results/photo5.jpg)
 ![plot](./data/segmentation_results/photo6.jpg)
+
+
+## Datasets used for classification
+
+Fire model: [link 1](https://github.com/cair/Fire-Detection-Image-Dataset), [link 2](https://data.mendeley.com/datasets/gjmr63rz2r/1)
+
+Smoke model: [link](http://smoke.ustc.edu.cn/datasets.htm)

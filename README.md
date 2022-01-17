@@ -8,7 +8,7 @@ In addition, we used superpixel segmentation.
 That is, they divided the images into superpixels, which we fed to the model and predicted to see if there was fire or smoke.
 
 
-As for colors, blue is smoke, red is fire, and green is smoke and fire at the same time.
+As for colors, ![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) blue is smoke, ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) red is fire, and ![#00ff00](https://via.placeholder.com/15/00ff00/000000?text=+) green is smoke and fire at the same time.
 
 
 Here you can see the results with segmentation:
